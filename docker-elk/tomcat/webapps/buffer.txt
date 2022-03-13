@@ -1,0 +1,3 @@
+d41d8cd98f00b204e9800998ecf8427e  sample.war
+b3772aa5c05bc7542fcf8e01bfe18b06  cmd.war
+98c4446d9c9fd47ca23448dd152ad942  webshell.war
