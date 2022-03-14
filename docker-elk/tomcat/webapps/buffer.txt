@@ -1,3 +1,4 @@
 d41d8cd98f00b204e9800998ecf8427e  sample.war
+2ad24b5a16e9226d67637b74950fe838  cmd(1).war
 b3772aa5c05bc7542fcf8e01bfe18b06  cmd.war
 98c4446d9c9fd47ca23448dd152ad942  webshell.war

